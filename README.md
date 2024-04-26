@@ -1,6 +1,6 @@
 Unixcoin Solidity 
 
-Build on Binancesmartchain 
+Build on Binance Smartchain 
 
 The blockchain technology for a Smart Wallet
 
